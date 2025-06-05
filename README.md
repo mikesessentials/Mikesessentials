@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my little world of finance. Where I constatly develop my skills by doing relevant projects! 
 
 <!--
 **mikesessentials/Mikesessentials** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
